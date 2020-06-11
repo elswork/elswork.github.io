@@ -10,12 +10,12 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = true
 description = "Uno de los contenedores que utilizo de forma habitual contiene Samba, lo uso para compartir archivos y carpetas entre diferentes dispositivos ..."
-images =["images/Samba3.png"]
+cover = "images/Samba_logo_2010.svg"
 +++
 
 Uno de los contenedores [Docker](https://www.docker.com/) que utilizo de forma habitual contiene [Samba](https://es.wikipedia.org/wiki/Samba_(software)), lo uso para compartir archivos y carpetas entre diferentes dispositivos, resulta muy práctico para infinidad de tareas, sobretodo cuando trabajas en remoto con servidores linux sin escritorio, te permite trabajar cómodamente desde tu PC personal en el que puedes utilizar todas las herramientas de edición habituales completamente configuradas a tu gusto. 
 
-[![Samba](images/Samba.png)](https://www.samba.org/)
+[{{< amp-img width="776" height="136" layout="responsive" src="images/Samba_logo_2010.svg" alt="Samba" >}}](https://www.samba.org/)
 
 Normalmente estos archivos y directorios se trabajan en alguna carpeta local de tu PC y posteriormente se suben al servidor para probarlos, o se prueban en local con alguna herramienta equivalente, pero yo me he acostumbrado a trabajar de esta forma ya que me resulta muy cómoda y ágil.
 
@@ -34,10 +34,12 @@ Hace algún tiempo descubrí, que gracias a [	Multi-CPU Architecture Support](ht
 
 Este es el primer contenedor Multi-arch (arm7, amd64) que he adaptado a la tercera arquitectura arm64.
 
-- [GitHub](https://github.com/DeftWork/samba)
+| GitHub | Docker Hub |
+| --- | --- |
+| [Samba](https://github.com/DeftWork/samba) | [Samba](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") |
 
-| Docker Hub | Docker Pulls | Docker Stars | Size/Layers |
-| --- | --- | --- | --- |
-| [samba](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [![](https://img.shields.io/docker/pulls/elswork/samba.svg)](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [![](https://img.shields.io/docker/stars/elswork/samba.svg)](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [![](https://images.microbadger.com/badges/image/elswork/samba.svg)](https://microbadger.com/images/elswork/samba "elswork/samba on microbadger.com") |
+| Docker Pulls | Docker Stars | Size/Layers |
+| --- | --- | --- |
+| [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/pulls/elswork/samba.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/stars/elswork/samba.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://images.microbadger.com/badges/image/elswork/samba.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/samba "elswork/samba on microbadger.com") |
 
 Espero os resulte tan útil como a mí.

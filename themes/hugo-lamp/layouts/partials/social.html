@@ -15,6 +15,22 @@
   </li>
   {{ end }}
 
+  {{ if isset .Site.Params "stripe" }}
+  <li class="social-item">
+    <a href="//github.com/sponsors/{{ .Site.Params.stripe }}" title="Stripe">
+      <svg class="icon" fill="currentColor"><use xlink:href="#icon-stripe" /></svg>
+    </a>
+  </li>
+  {{ end }}
+
+  {{ if isset .Site.Params "dockerhub" }}
+  <li class="social-item">
+    <a href="//hub.docker.com/u/{{ .Site.Params.dockerhub }}" title="DockerHub">
+      <svg class="icon" fill="currentColor"><use xlink:href="#icon-dockerhub" /></svg>
+    </a>
+  </li>
+  {{ end }}
+
   {{ if isset .Site.Params "twitter" }}
   <li class="social-item">
     <a href="//twitter.com/{{ .Site.Params.twitter }}" title="Twitter">
@@ -27,6 +43,14 @@
   <li class="social-item">
     <a href="//www.linkedin.com/in/{{ .Site.Params.linkedin }}" title="Linkedin">
       <svg class="icon" fill="currentColor"><use xlink:href="#icon-linkedin" /></svg>
+    </a>
+  </li>
+  {{ end }}
+
+  {{ if isset .Site.Params "slack" }}
+  <li class="social-item">
+    <a href="//bit.ly/{{ .Site.Params.slack }}" title="Slack">
+      <svg class="icon" fill="currentColor"><use xlink:href="#icon-slack" /></svg>
     </a>
   </li>
   {{ end }}

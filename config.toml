@@ -17,10 +17,12 @@ theme = "hugo-lamp"
   # Social networks
   email = "elswork@gmail.com"
   github = "DeftWork"
-  docker = "elswork"
+  stripe = "elswork"
+  dockerhub = "elswork"
   linkedin = "elswork"
   # googleplus = "https://plus.google.com/+EloyL%C3%B3pezelswork"
   twitter = "elswork"
+  slack = "35Kp83O"
   rss = true  # switch to true to enable RSS icon link
 
   # Publisher
@@ -29,7 +31,7 @@ theme = "hugo-lamp"
   # adsenseSlotSticky = "XXX"             # Enables sticky ads feature, value maybe the same with adsenseSlot, remove if you don't want display sticky ads
 
   # SEO configs
-  seotitle = "Deft.Work (SEO Version)"
+  seotitle = "Deft.Work - Ciencia y Tecnología para el desarrollo Social"
   googleSiteVerification = "google18d3fb607d246ec9"    # Google Webmaster
   # msValidate = "bing_site_verification_code"                  # Bing Webmaster
 
@@ -47,7 +49,7 @@ theme = "hugo-lamp"
   name = "Blog"
   weight = 1
   identifier = "blog"
-  url = "/post/"
+  url = "/"
 #[[menu.main]]
 #  name = "AMP Project"
 #  weight = 2

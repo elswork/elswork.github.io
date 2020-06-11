@@ -1,6 +1,6 @@
 +++
 date = "2016-03-04T02:09:17+02:00"
-draft = false
+draft = true
 title= "Google Coder in a Docker container over the ARMv7 architecture of an ODROID-XU3 Lite"
 tags = ["ARMv7","Docker","Google Coder","Odroid"]
 categories = ["Aprendizaje", "Tecnología"]

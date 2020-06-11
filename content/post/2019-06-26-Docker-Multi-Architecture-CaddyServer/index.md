@@ -10,13 +10,15 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = true
 description = "Otro de los contenedores que utilizo de forma habitual es con el que sirvo las páginas de mi blog y otros recursos, también lo uso para redirigir trafico web a otros recursos externos a Caddy ..."
-images =["images/CaddyCollage.png"]
+cover = "/images/caddy-black.svg"
 +++
 
 Otro de los contenedores que utilizo de forma habitual es con el que sirvo las páginas de mi blog y otros recursos, también lo uso para redirigir trafico web a otros recursos externos a [Caddy](https://caddyserver.com/), un novedoso servidor web multiplataforma, capaz de servir HTTP/2, libre de dependencias, seguro por defecto, fácil de usar y apto para poner en producción gracias a su robustez. Sin duda su capacidad de servir en HTTPS mediante Let's Encrypt y la sencillez a la hora de implementarlo es el punto fuerte de este servidor web.
 
 
-[![Caddy](images/Caddy2.png)](https://caddyserver.com/)
+<!-- [![Caddy](images/Caddy2.png)](https://caddyserver.com/) -->
+
+[{{< amp-img width="900" height="600" layout="responsive" src="images/CaddyCollage.svg" alt="CaddyServer" >}}](https://caddyserver.com/)
 
 Desde que lo descubrí hace más de dos años, lo utilizo como servidor web principal, tiempo en el que ha tenido un desempeño brillante, con cero interrupciones y problemas, fue uno de [mis primeros contenedores](https://deft.work/blog/2017/03/20/mis-primeros-contenedores-docker-para-raspberry-y-otros-dispositivos-arm/) con los que empecé a experimentar en Docker, añadir esa capa de abstracción hace que esta extraordinaria herramienta sea aun mejor.
 
@@ -24,10 +26,13 @@ Por estos y muchos otros motivos decidí adaptarlo a la arquitectura arm8 o arm6
 
 Durante este tiempo he ido actualizando la imágen adaptándola a la nuevas versiones de Caddyserver que han ido surgiendo. Al principio mantenía dos versiones de la imágen, con soporte para servir PHP y sin él, con el paso de las nuevas versiones de Caddy la versión con PHP dejo de funcionar, por suerte en esta última versión he podido recuperar esa funcionalidad y además sin tener que crear una versión paralela, es decir, la misma versión puede incorporar o no esa funcionalidad y esto es gracias al uso de [Docker Compose](https://docs.docker.com/compose/), después de darle unas cuantas vueltas me di cuenta que no era necesario incluir esa funcionalidad en la mismo contenedor, siendo fiel al concepto de [arquitectura de microservicios](https://es.wikipedia.org/wiki/Arquitectura_de_microservicios) tiene todo el sentido que el servicio "motor PHP" tenga su propio contenedor y que ambos puedan ser invocados mediante Docker Compose como un supracontenedor o "Pod" en el que ambos contenedores están configurados para trabajar conjuntamente.  
 
-- [GitHub](https://github.com/DeftWork/caddy-docker)
 
-| Docker Hub | Docker Pulls | Docker Stars | Size/Layers |
-| --- | --- | --- | --- |
-| [Caddy](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [![](https://img.shields.io/docker/pulls/elswork/arm-caddy.svg)](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [![](https://img.shields.io/docker/stars/elswork/arm-caddy.svg)](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [![](https://images.microbadger.com/badges/image/elswork/arm-caddy.svg)](https://microbadger.com/images/elswork/arm-caddy "elswork/arm-caddy on microbadger.com") |
+| GitHub | Docker Hub |
+| --- | --- |
+| [Caddy](https://github.com/DeftWork/caddy-docker) | [Caddy](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") |
+
+| Docker Pulls | Docker Stars | Size/Layers |
+| --- | --- | --- |
+| [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/pulls/elswork/arm-caddy.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/stars/elswork/arm-caddy.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://images.microbadger.com/badges/image/elswork/arm-caddy.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/arm-caddy "elswork/arm-caddy on microbadger.com") |
 
 Espero os resulte tan útil como a mí.

@@ -12,13 +12,13 @@ featured = false
 description = "Con esta afirmación tan rotunda han conseguido que rompa el silencio en mi blog..."
 # image ="/static/deftwork.png"
 +++
-Es lo único que necesitas saber&#8230;
+Es lo único que necesitas saber...
 
 Con esta afirmación tan rotunda han conseguido que rompa el silencio en mi blog, hacia meses que no encontraba nada los suficientemente interesante como para publicarlo, y no es que no hayan sucedido cosas, que han sucedido y muchas.
 
-Lo más interesante que os puedo contar es como llegue hasta este site. Andaba yo buscando cupones para el Google Cloud  Platform <a title="Google Cloud Platform" href="https://cloud.google.com/developers/starterpack/" target="_blank">https://cloud.google.com/developers/starterpack/</a> , cuando me tope con la madre de todos los cupones (ya me parezco a mi mujer) ((Confío en que esto no lo va a leer)) 100.000 dólares en la Plataforma Google Cloud para Startups <a title="100.000 dolares en la Plataforma Google Cloud para Startups" href="http://googlecloudplatform.blogspot.com.es/2014/09/announcing-100000-dollars-for-startups-on-google-cloud-platform.html" target="_blank">http://googlecloudplatform.blogspot.com.es/2014/09/announcing-100000-dollars-for-startups-on-google-cloud-platform.html</a>
+Lo más interesante que os puedo contar es como llegue hasta este site. Andaba yo buscando cupones para el Google Cloud  Platform [Google Cloud Starterpack](https://cloud.google.com/developers/starterpack/), cuando me tope con la madre de todos los cupones (ya me parezco a mi mujer) ((Confío en que esto no lo va a leer)) [100.000 dolares en la Plataforma Google Cloud para Startups](http://googlecloudplatform.blogspot.com.es/2014/09/announcing-100000-dollars-for-startups-on-google-cloud-platform.html).
 
-Me parece una campaña muy buena de Google para promocionar sus servicios en la nube. Cualquiera con una buena idea puede recaudar saldo suficiente como para olvidarse del Hosting u hospedaje de sus aplicaciones por una buena temporada. Fue ahí cuando en uno de los dos ejemplos de las empresas que lo habían recibido encontré a &#8220;Khan Academy&#8221; <a title="Khan Academy" href="https://es.khanacademy.org" target="_blank">https://es.khanacademy.org</a>
+Me parece una campaña muy buena de Google para promocionar sus servicios en la nube. Cualquiera con una buena idea puede recaudar saldo suficiente como para olvidarse del Hosting u hospedaje de sus aplicaciones por una buena temporada. Fue ahí cuando en uno de los dos ejemplos de las empresas que lo habían recibido encontré a [Khan Academy](https://es.khanacademy.org).
 
 Desde el primer momento la idea me sedujo y su eslogan no podía ser más contundente , completamente afín a mi forma de pensar.
 
@@ -28,6 +28,4 @@ Gratuitamente, para todo el mundo y para siempre. ¿no debería ser siempre así
 
 En fin, os dejo ya, mejor será que lo veáis vosotros mismos:
 
-<div class="jetpack-video-wrapper">
-  <span class='embed-youtube' style='text-align:center; display: block;'></span>
-</div>
+{{< amp-youtube id="jqNxN8ASZL4" autoplay="true" >}}

@@ -15,7 +15,7 @@ description = "Como el uso de Raspberry y Docker me ha permitido experimentar nu
 
 Tecnológicamente hablando tengo la percepción que nos encontramos ante un punto de inflexión, aunque mi opinión es completamente subjetiva, en realidad se trata de un paso más del proceso conocido desde hace décadas como la [Miniaturización](https://es.wikipedia.org/wiki/Miniaturizaci%C3%B3n), proceso tecnológico mediante el cual se reduce el tamaño de los dispositivos electrónicos y por extensión los ordenadores, los cuales en un espacio de tiempo relativamente corto han pasado de ocupar habitaciones a caber en la palma de la mano, al mismo tiempo que su capacidad de cómputo ha aumentado, haciendo cumplir las predicciones de la [Ley de Moore](https://es.wikipedia.org/wiki/Ley_de_Moore).
 
-![Raspberry Pi 3 + Docker](./images/Raspberry_Docker.png)
+[{{< amp-img width="672" height="201" layout="responsive" src="images/Raspberry_Docker.png" alt="Raspberry Pi 3 + Docker" >}}](images/Raspberry_Docker.png)
 
 Como decía, tan solo se trata de mi percepción, que con el uso de la [Rasberry](https://www.raspberrypi.org/) 3 ha cambiado, en el futuro mis ordenadores domésticos serán cada vez más pequeños, quizás para algunos aún es demasiado pronto para que caigan en la misma cuenta, pero para mi y para el uso que habitualmente hago, estos ordenadores son más que suficiente para casi cualquier tipo de tarea. Quizás el factor más determinante que ha propiciado el cambio de mi concepción ha sido la posibilidad de emplear la contenerización o virtualización ligera gracias a [Docker](https://www.docker.com/) y más concretamente al sistema operativo [HypriotOS](https://blog.hypriot.com/) (aunque recientemente también está disponible en los repositorios oficiales de muchas distribuciones para Raspberry como Raspbian) que simplifica y agiliza el máximo la puesta en marcha. Todo esto me ha permitido sacar el máximo partido a  esta tecnología rápidamente en las Raspberry, lo cual me ha permitido explorar y experimentar con la [arquitectura de microservicios](https://es.wikipedia.org/wiki/Arquitectura_de_microservicios) y lo que es más importante, incorporar la posibilidad de *unir* el poder de cómputo de varios dispositivos de forma rápida y sencilla gracias a [Docker Swarm](https://docs.docker.com/engine/swarm/#feature-highlights), algo así como un cluster de ordenadores que se manejan como una sola entidad, de esta forma la pequeña Raspberry se ha convertido en mi unidad de computación de referencia.
 
@@ -23,7 +23,7 @@ En este proceso de reaprendizaje, he utilizado las *recetas* o contenedores que 
 
 Esta nueva forma de trabajar permite, poner en marcha nuevos servicios de forma rápida y fácilmente reproducible, lo que a la práctica supone un mayor margen de maniobras para experimentar nuevas tecnologías y formas de hacer las cosas.
 
-![Raspberry + Docker + Caddy + LetsEncrypt](./images/Raspberry-Docker-Caddy-Lypt.jpg)
+[{{< amp-img width="800" height="560" layout="responsive" src="images/Raspberry-Docker-Caddy-Lypt.jpg" alt="Raspberry + Docker + Caddy + LetsEncrypt" >}}](images/Raspberry-Docker-Caddy-Lypt.jpg)
 
 Uno de los primeros servicios con los que experimenté fue el servicio web, lo más habitual hubiera sido utilizar apache o nginx, pero me decidí por probar [Caddy](http://caddyserver.com/) un servidor web mucho más reciente que ofrece una serie de características muy atractivas:
 
