@@ -35,6 +35,9 @@ theme = "hugo-lamp"
   googleSiteVerification = "google18d3fb607d246ec9"    # Google Webmaster
   # msValidate = "bing_site_verification_code"                  # Bing Webmaster
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
     # The format shown here is the same one Jekyll/Octopress uses by default.
