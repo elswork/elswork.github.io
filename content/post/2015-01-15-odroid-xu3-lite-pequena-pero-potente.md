@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Tengo una gran afición por el cacharreo tecnológico, he probado varias plataformas de aprendizaje electrónico, experimentación y prototipado..."
-# image ="/static/deftwork.png"
+
 +++
 Tengo una gran afición por el cacharreo tecnológico, he probado varias plataformas de aprendizaje electrónico, experimentación y prototipado como <a title="Arduino" href="http://www.arduino.cc/" target="_blank">Arduino</a>,  <a title="Espruino" href="http://www.espruino.com/" target="_blank">Espruino</a>, &#8230;
 
@@ -50,6 +50,6 @@ Gracias al magnífico artículo de Robologs <a title="Primeros pasos con Odroid
 
 Por último me gustaría destacar el <a title="Odroid Magazine" href="http://magazine.odroid.com/" target="_blank">magazine sobre Odroid</a> que la marca publica de forma gratuita mensualmente con artículos y tutoriales muy interesantes.<figure id="attachment_138" style="width: 557px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-138" src="/images/EsquemaXU3-Lite2.jpg" alt="Esquema Odroid XU3-Lite" width="557" height="350" srcset="/images/EsquemaXU3-Lite2-300x189.jpg 300w, /images/EsquemaXU3-Lite2.jpg 557w" sizes="(max-width: 557px) 100vw, 557px" />][1]<figcaption class="wp-caption-text">Esquema Odroid XU3-Lite</figcaption></figure>
+[<img class="size-full wp-image-138" src="/images/EsquemaXU3-Lite2.webp" alt="Esquema Odroid XU3-Lite" width="557" height="350" srcset="/images/EsquemaXU3-Lite2-300x189.webp 300w, /images/EsquemaXU3-Lite2.webp 557w" sizes="(max-width: 557px) 100vw, 557px" />][1]<figcaption class="wp-caption-text">Esquema Odroid XU3-Lite</figcaption></figure>
 
- [1]: /images/EsquemaXU3-Lite2.jpg
+ [1]: /images/EsquemaXU3-Lite2.webp

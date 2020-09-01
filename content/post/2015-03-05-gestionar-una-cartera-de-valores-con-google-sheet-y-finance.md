@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Para aquellas personas que se están iniciando en bolsa y desean tener visión y control global de su cartera de inversiones ..."
-# image ="/static/deftwork.png"
+
 +++
 Este artículo va dedicado a aquellas personas que se están iniciando en bolsa y desean tener visión y control global de su cartera de inversiones.
 
@@ -28,6 +28,6 @@ Para hacer cualquier modificación o vuestros propios cálculos, ir al menú &#8
 
 Os dejo también un enlace donde podéis consultar <a title="Funciones especiales Google Sheet" href="https://support.google.com/docs/topic/3105411?hl=es&ref_topic=3046366" target="_blank">otras funciones especiales de Google Sheet</a>.<figure id="attachment_161" style="width: 700px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-161" src="/images/FinanceSheet.png" alt="Finance Sheet" width="700" height="350" srcset="/images/FinanceSheet-300x150.png 300w, /images/FinanceSheet.png 700w" sizes="(max-width: 700px) 100vw, 700px" />][1]<figcaption class="wp-caption-text">Google Sheet y Google Finance</figcaption></figure>
+[<img class="size-full wp-image-161" src="/images/FinanceSheet.webp" alt="Finance Sheet" width="700" height="350" srcset="/images/FinanceSheet-300x150.webp 300w, /images/FinanceSheet.webp 700w" sizes="(max-width: 700px) 100vw, 700px" />][1]<figcaption class="wp-caption-text">Google Sheet y Google Finance</figcaption></figure>
 
- [1]: /images/FinanceSheet.png
+ [1]: /images/FinanceSheet.webp

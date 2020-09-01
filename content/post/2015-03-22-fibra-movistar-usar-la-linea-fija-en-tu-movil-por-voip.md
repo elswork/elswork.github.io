@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Además de la linea fija habitual puedes realizar llamadas voip como si de la linea fijas se tratase..."
-# image ="/static/deftwork.png"
+
 +++
 Recientemente descubrí que si dispones de una conexión de fibra <a title="Wikipedia -Fibra hasta la casa" href="http://es.wikipedia.org/wiki/Fibra_hasta_la_casa" target="_blank">FTTH</a> de Movistar además de la linea fija habitual puedes realizar llamadas voip como si de la linea fijas se tratase, es decir, con llamadas al mismo precio (fijos nacionales gratis). Puedes mantener hasta 4 llamadas concurrentemente y puedes realizarlas o responderlas desde el propio smartphone.
 
@@ -22,10 +22,8 @@ Nombre de Cuenta, Identificador de llamada, nombre de usuario, contraseña: 9XXX
 
 Servidor: telefonica.net:5060
 
-Servidor proxy: 10.31.255.134:5070<figure id="attachment_174" style="width: 576px" class="wp-caption aligncenter">
-
-[<img class="size-large wp-image-174" src="/images/Screenshot_2015-03-20-19-17-35-576x1024.png" alt="Configuración CSipSimple  " width="576" height="1024" srcset="/images/Screenshot_2015-03-20-19-17-35-576x1024.png 576w, /images/Screenshot_2015-03-20-19-17-35.png 1080w" sizes="(max-width: 576px) 100vw, 576px" />][3]<figcaption class="wp-caption-text">Configuración CSipSimple</figcaption></figure>
+Servidor proxy: 10.31.255.134:5070
+{{< amp-img width="576" height="1024" layout="responsive" src="/images/Screenshot_2015-03-20-19-17-35.webp" alt="Configuración CSipSimple" >}}
 
  [1]: https://play.google.com/store/apps/details?id=com.telefonica&hl=es
  [2]: https://play.google.com/store/apps/details?id=com.csipsimple&hl=es
- [3]: /images/Screenshot_2015-03-20-19-17-35.png

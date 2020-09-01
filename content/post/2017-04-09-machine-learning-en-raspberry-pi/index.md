@@ -10,12 +10,12 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = true
 description = "Continuando con el artículo anterior busco la forma práctica de experimentar Machine Learning en la Raspberry ..."
-#image ="/images/Raspberry_Docker.png"
+#image ="/images/Raspberry_Docker.webp"
 +++
 
 ¿Quién dijo que solo se puede experimentar con *Machine Learning* si cuentas con grandes recursos? Esto no es del todo cierto, dependerá del grado de dificultad, la extensión de los datos y el enfoque del problema que abordemos. Cualquiera que tenga una modesta Raspberry puede comenzar a experimentar y aprender los fundamentos del [aprendizaje automático](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico) de forma rápida y sencilla.
 
-[{{< amp-img width="640" height="480" layout="responsive" src="images/RaspiTensorDocker3.png" alt="Raspberry Pi 3 + Docker + Machine Learning" >}}](https://hub.docker.com/r/elswork/rpi-tensorflow/)
+[{{< amp-img width="640" height="480" layout="responsive" src="images/RaspiTensorDocker3.webp" alt="Raspberry Pi 3 + Docker + Machine Learning" >}}](https://hub.docker.com/r/elswork/rpi-tensorflow/)
 
 Partiendo de las premisas del [anterior artículo](https://deft.work/mis_primeros_contenedores), traté de encontrar un contenedor Docker compatible con la arquitectura ARM de Raspberry, concretamente uno que me permitiese utilizar la  biblioteca de código abierto [Tensorflow](https://www.tensorflow.org/) de Google. Investigando por la red me encontré con el [estupendo trabajo](https://github.com/romilly/rpi-docker-tensorflow) de [Romilly Cocking](https://twitter.com/romillyc), que permite experimentar las técnicas de Machine Learning en los prácticos notebooks de Jupyter (iPython). el cual modifique para utilizar la reciente versión Tensorflow 1.0 y añadir varias librerías, obteniendo un contenedor que incluye los siguientes elementos:
 

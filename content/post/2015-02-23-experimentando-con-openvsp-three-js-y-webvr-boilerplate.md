@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Desde hace tiempo, posiblemente desde que tengo uso de razón, me apasionan los aviones"
-# image ="/static/deftwork.png"
+
 +++
 
 Desde hace tiempo, posiblemente desde que tengo uso de razón, me apasionan los aviones, no para volar en ellos, me pone nervioso, sino para verlos volar e incluso pilotarlos remotamente. A pesar de lo que pueda parecer no esta todo inventando en aeronáutica, de hecho, continuamente se están explorando nuevas formas de vuelo, concretamente me llama la atención los progresos que se han realizado con el <a title="Project Wing de Google" href="http://www.xataka.com/otros/google-presenta-project-wing-sus-drones-para-entregas" target="_blank">Project Wing de Google</a> que combina el vuelo estático y el despegue horizontal de los helicópteros, con la eficiencia del planeo de los aviones convencionales.
@@ -31,7 +31,7 @@ Se trata de un proyecto  de programación &#8220;en vivo&#8221; en un entorno d
 
 En la búsqueda encontré el proyecto <a title="WebVR boilerplate" href="http://smus.com/responsive-vr/" target="_blank">WebVR boilerplate</a> de Boris Smus, que si bien no aborda la programación en vivo, es un excelente punto de partida para cualquier proyecto WebVR, ya que, los proyectos resultantes no solo son compatibles con Oculus Rift y Cardboard, sino que también sirve para PC, móvil, &#8230; e incluso es capaz de detectar que tipo de dispositivo y su características para la realidad virtual, aprovechando al máximo las capacidades del dispositivo, como por ejemplo el uso de los giroscopos del Smartphone para controlar la orientación de la escena, sobra decir que me encantó, así que me puse a experimentar con el ejemplo, lo combine con el <a title="Ejemplo Web Cardboard" href="http://vr.chromeexperiments.com/" target="_blank">ejemplo Web para Cardboard *</a> y por último, se me ocurrió intentar meter en ese espacio de realidad virtual, una boceto básico generado con OpenVSP y este fue <a title="Ejemplo WebVR Boilerplate" href="http://deft.work/webvrbp/" target="_blank">el resultado</a>:<figure id="attachment_158" style="width: 689px" class="wp-caption aligncenter">
 
-<a title="Prueba WebVR Boilerplate" href="http://deft.work/webvrbp/" target="_blank"><img class="size-full wp-image-158" src="/images/webvrbp_020.png" alt="Ejemplo combinado" width="689" height="420" srcset="/images/webvrbp_020-300x183.png 300w, /images/webvrbp_020.png 689w" sizes="(max-width: 689px) 100vw, 689px" /></a><figcaption class="wp-caption-text">Ejemplo WebVR Boilerplate con modelo generado en OpenVSP </figcaption></figure>
+<a title="Prueba WebVR Boilerplate" href="http://deft.work/webvrbp/" target="_blank"><img class="size-full wp-image-158" src="/images/webvrbp_020.webp" alt="Ejemplo combinado" width="689" height="420" srcset="/images/webvrbp_020-300x183.webp 300w, /images/webvrbp_020.webp 689w" sizes="(max-width: 689px) 100vw, 689px" /></a><figcaption class="wp-caption-text">Ejemplo WebVR Boilerplate con modelo generado en OpenVSP </figcaption></figure>
 
 Se podría decir que esta prueba no tiene una utilidad concreta, pero a mi me ha servido para ir aprendiendo sobre la marcha algunos conceptos de estos apasionantes mundillos, espero poder seguir avanzando hacia el ejemplo de Brian Peris o hacia donde me lleve la marea&#8230;  (continuará)
 

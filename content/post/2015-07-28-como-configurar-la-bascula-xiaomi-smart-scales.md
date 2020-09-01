@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Desde hace algunos años creo que esta es la formula para alcanzar los mejores resultado..."
-# image ="/static/deftwork.png"
+
 +++
 Antes de hablaros sobre la báscula, os contaré los motivos que me llevaron a comprarla, en primer lugar los buenos resultados de la Xiaomi Mi Band, no tenia pensado adquirir ningún smartwatch ni pulsera cuantificadora debido a sus elevados precios hasta que empece a ver la Xiaomi Mi Band por apenas 20 €, al final no me pude resistir y la compre, la tengo desde hace 35 días y esta a un 53% de batería después de cargarla solo el primer día, sin duda toda una proeza, en cuanto a los datos da la impresión de ser bastante precisa, tanto en el computo de la actividad física como en la información sobre el sueño, los datos que arroja sobre el sueño son bastante reveladores, al menos para mi, básicamente dividen el sueño entre ligero y profundo, lo que se puede apreciar en las gráficas es que antes de una fase de sueño profundo (reparador) pasas algunos minutos de sueño ligero, por lo que los mejores resultados de sueño profundo se consiguen con las menores interrupciones a lo largo de la noche, muchos de vosotros pensareis: &#8220;Es evidente, no necesito que me lo diga una pulsera&#8221;, pero quizás algunos de vosotros os habréis preguntado porque algunos días, a pesar de haber dormido las mismas horas os levantáis más cansados incluso sin haber tenido interrupciones, basta con dar un vistazo a la gráfica para comprobar que has pasado la mayor parte de la noche con sueño ligero, y que justo cuando habías empezado con el profundo te ha despertado el despertador y te ha partido en dos.
 
@@ -26,6 +26,6 @@ La báscula y la pulsera comparten aplicación en el móvil &#8220;Mi Fit&#8221;
 
 Es una lástima, ya que, en relación Calidad-Precio se puede considerar un buen producto, pero la ausencia de unas buenas instrucciones y la dificultad de encontrar la App actualizada en Google Play hacen que no sea un producto apto para todos los públicos.<figure id="attachment_209" style="width: 604px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-209" src="/images/sh-v-2-1024x576.png" alt="Xiaomi Mi Band" width="604" height="340" srcset="/images/sh-v-2-300x169.png 300w, /images/sh-v-2-1024x576.png 1024w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Pulsera cuantificadora &#8211; Xiaomi Mi Band</figcaption></figure>
+[<img class="size-large wp-image-209" src="/images/sh-v-2-1024x576.webpp" alt="Xiaomi Mi Band" width="604" height="340" srcset="/images/sh-v-2-300x16.webpbp 300w, /images/sh-v-2-1024x5.webpebp 1024w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Pulsera cuantificadora &#8211; Xiaomi Mi Band</figcaption></figure>
 
- [1]: /images/sh-v-2.png
+ [1]: /images/sh-v-2.webpp

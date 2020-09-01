@@ -10,11 +10,11 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Google lanza Chromecast en España..."
-# image ="/static/deftwork.png"
+
 +++
 Google lanza <a title="Chromecast" href="http://www.google.com/intl/es/chrome/devices/chromecast/index.html" target="_blank">Chromecast</a> en España
 
-[<img class=" " title="Chromecast" alt="Chromecast" src="/images/marquee-product.png" width="541" height="500" />][1]
+[{{< amp-img width="541" height="500" src="/images/marquee-product.webp" alt="Chromecast" >}}][1]
 
 Podéis adquirirlo en <a title="Comprar en Google Play" href="https://play.google.com/store/devices/details?id=chromecast" target="_blank">GooglePlay</a> o <a title="Comprar en Amazon" href="http://www.amazon.es/dp/B00I4WQ8VG" target="_blank">Amazon</a>
 

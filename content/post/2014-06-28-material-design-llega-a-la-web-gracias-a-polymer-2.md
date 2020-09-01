@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Esto marcará tendencia esta temporada..."
-# image ="/static/deftwork.png"
+
 +++
 <http://www.elandroidelibre.com/2014/06/material-design-llega-a-la-web-gracias-a-polymer.html>
 

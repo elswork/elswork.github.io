@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Después de muchos años como técnico y administrador de sistemas informáticos, puedo decir..."
-# image ="/static/deftwork.png"
+
 +++
 ### &#8230; disfruta de su completo ecosistema en la nube.
 
@@ -28,4 +28,4 @@ Dicho todo esto, debes de estar loco si todavía te encuentras sufriendo las ata
 
 Y si te decides a dar el cambio, pregúntame, puedo resolverte algunas dudas y ofrecerte algún suculento descuento.<figure id="attachment_235" style="width: 222px" class="wp-caption aligncenter">
 
-<a href="https://goo.gl/VBQyp6" target="_blank"><img class="wp-image-235 size-full" src="/images/unnamed.png" alt="Pon a prueba Google Apps for Work" width="222" height="31" /></a><figcaption class="wp-caption-text"><a href="https://goo.gl/VBQyp6" target="_blank">Evalua Google Apps Gratuitamente</a></figcaption></figure> 
+<a href="https://goo.gl/VBQyp6" target="_blank"><img class="wp-image-235 size-full" src="/images/unnamed.webpp" alt="Pon a prueba Google Apps for Work" width="222" height="31" /></a><figcaption class="wp-caption-text"><a href="https://goo.gl/VBQyp6" target="_blank">Evalua Google Apps Gratuitamente</a></figcaption></figure> 

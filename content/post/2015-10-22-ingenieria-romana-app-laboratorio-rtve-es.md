@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Siempre nos estamos quejando de la escasa calidad de los contenidos que se emiten en TV ..."
-# image ="/static/deftwork.png"
+
 +++
 Siempre nos estamos quejando de la escasa calidad de los contenidos que se emiten en TV, pues bien, esto es un ejemplo de todo lo contrario, el documental _Ingeniería Romana_, que se estrena este sábado a las 17:05 horas en La 2 de TVE, de buen seguro que estará a la altura de las expectativas, para muestra la App de realidad virtual que lo acompaña, en la que se puede disfrutar de los monumentos romanos de la antigua ciudad de Tarraco (Tarragona).
 

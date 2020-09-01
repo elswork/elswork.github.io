@@ -10,13 +10,13 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Excelente artículo de José Cabrera sobre..."
-# image ="/static/deftwork.png"
+
 +++
 Excelente artículo de José Cabrera sobre la <a href="https://es.wikipedia.org/wiki/Redarqu%C3%ADa" target="_blank">redarquía</a>, término del que él mismo es autor, un nuevo modelo organizativo propio de las RRSS que están emergiendo de forma natural en los entornos empresariales al calor de la colaboración y la inteligencia colectiva.
 
-[{{< amp-img width="650" height="366" layout="responsive" src="./images/Redes-sociales.jpg" alt="Redes Sociales" >}}][2]
+[{{< amp-img width="650" height="366" layout="responsive" src="./images/Redes-sociales.webp" alt="Redes Sociales" >}}][2]
 
 Origen: _[Redarquía: conectando con la inteligencia colectiva | Innovación en la gestión][2]_
 
- [1]: ./images/Redes-sociales.jpg
+ [1]: ./images/Redes-sociales.webp
  [2]: http://blog.cabreramc.com/2015/09/15/redarquia-conectando-con-la-inteligencia-colectiva/

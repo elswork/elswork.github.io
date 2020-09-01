@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Consejos y hábitos que todo programador debe saber"
-# image ="/static/deftwork.png"
+
 +++
 > Consejos y hábitos que todo programador debe saber y poner en práctica para ser mejor programador.
 

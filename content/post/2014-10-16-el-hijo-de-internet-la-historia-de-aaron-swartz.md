@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "No recuerdo muy bien porque aterrice en una página de wikipedia que recoge las diferentes personalidades galardonadas..."
-# image ="/static/deftwork.png"
+
 +++
 No recuerdo muy bien porque aterrice en una página de wikipedia que recoge las diferentes personalidades galardonadas en el conocido como "Internet Hall of Fame" (Salón de la Fama de Internet).
 

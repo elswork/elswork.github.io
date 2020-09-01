@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Si sois cinéfilos como yo seguro que llevabais esperando como yo esta noticia desde hace mucho tiempo ..."
-# image ="/static/deftwork.png"
+
 +++
 ¡Por fin Netflix en España! Si sois cinéfilos como yo seguro que llevabais esperando como yo esta noticia desde hace mucho tiempo, incluso demasiado, muchos han sido los rumores del desembarco de Netflix en España, pero finalmente la noticia nunca se producida.
 

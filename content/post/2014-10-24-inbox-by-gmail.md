@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Recientemente Google ha lanzado esta nueva app, desarrollada por los creadores del mítico Gmail, una aplicación que es ..."
-# image ="/static/deftwork.png"
+
 +++
 
 Recientemente Google ha lanzado esta nueva app, desarrollada por los creadores del mítico Gmail, una aplicación que es una especie de híbrido entre Gmail y Google Now, que en mi opinión no viene a sustituir a Gmail sino a complementarlo o continuarlo.
@@ -19,7 +19,7 @@ Podéis conocer los detalles de este &#8220;Gmail 2.0&#8221; en [Inbox by Gmail
 
 No se si por una estrategia de marketing o por ser un producto muy beta, pero para poderlo probar es necesario solicitar una invitación por correo, una vez invitados es imprescindible instalar la app en un móvil [Android][3] o [iPhone][4], una vez instalado parece ser que también se podrá utilizar en la [versión web para PC][5]<figure id="attachment_100" style="width: 531px" class="wp-caption aligncenter">
 
-[<img class="wp-image-100 size-full" src="/images/inbox-logo.png" alt="" width="531" height="501" srcset="/images/inbox-logo-300x283.png 300w, /images/inbox-logo.png 531w" sizes="(max-width: 531px) 100vw, 531px" />][6]<figcaption class="wp-caption-text">Inbox by Gmail</figcaption></figure>
+[<img class="wp-image-100 size-full" src="/images/inbox-logo.webp" alt="" width="531" height="501" srcset="/images/inbox-logo-300x283.webp 300w, /images/inbox-logo.webp 531w" sizes="(max-width: 531px) 100vw, 531px" />][6]<figcaption class="wp-caption-text">Inbox by Gmail</figcaption></figure>
 
 Solicita una invitación a <a class="invite-link" href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" data-href-desktop="https://mail.google.com/mail/u/0/#inbox?compose=new" data-track-action="inbox@google.com">inbox@google.com</a>
 
@@ -28,4 +28,4 @@ Solicita una invitación a <a class="invite-link" href="https://mail.google.com/
  [3]: https://play.google.com/store/apps/details?id=com.google.android.apps.inbox
  [4]: http://www.google.com/inbox/ios
  [5]: https://inbox.google.com/
- [6]: http://deft.work/images/inbox-logo.png
+ [6]: http://deft.work/images/inbox-logo.webp

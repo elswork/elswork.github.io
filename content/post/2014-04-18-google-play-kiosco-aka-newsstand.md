@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Enseguida me engancho por su comodidad y versatilidad a la hora de leer artículos y noticias..."
-# image ="/static/deftwork.png"
+
 +++
 Recientemente descubrí <a title="Ver en Google Play" href="https://play.google.com/store/apps/details?id=com.google.android.apps.magazines" target="_blank">Google Play Kiosco</a> para smartphone y tablet, que remplaza a Google Currents. Enseguida me engancho por su comodidad y versatilidad a la hora de leer artículos y noticias, entre otras cosas te permite configurar rápidamente el tipo de noticias por contenido y publicador, de forma cada uno puede crearse su propio &#8220;periódico digital&#8221; personalizado. A esto hay que sumarle una buena navegación y la posibilidad de compartir los artículos que nos interesen.
 
@@ -20,6 +20,6 @@ Decidí investigar un poco más y ver las posibilidades que ofrecía a los publi
 
 Aquí tenéis el <a title="elswork en Google Play Kiosco" href="http://google.com/newsstand/s/CBIwjoj_rAk" target="_blank">enlace </a>a mi fuente de artículos en la aplicación, os recomiendo abrirlo en un smartphone o tablet en el que tengáis instalada la aplicación.
 
-Por el momento el único problema  que he encontrado es que la versión para PC (navegador) no esta disponible en España, imagino que por aspectos legales.<figure style="width: 255px" class="wp-caption alignleft">
+Por el momento el único problema  que he encontrado es que la versión para PC (navegador) no esta disponible en España, imagino que por aspectos legales.
 
-<a title="Google Play Kiosco" href="https://play.google.com/store/apps/details?id=com.google.android.apps.magazines" target="_blank"><img src="https://lh5.ggpht.com/rowOPaiODov-bNG7rnD6awPZwLnOc7Vzab-29GpfvB6jfE8DhOR42owBqAmLUXj-W2sI=w300" alt="Google Play Newsstand" width="255" height="255" /></a><figcaption class="wp-caption-text">Google Play Kiosco</figcaption></figure> 
+[{{< amp-img width="300" height="300" src="/images/Newsstand.webp" alt="Google Play Kiosco" >}}](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)

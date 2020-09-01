@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Con esta afirmación tan rotunda han conseguido que rompa el silencio en mi blog..."
-# image ="/static/deftwork.png"
+
 +++
 Es lo único que necesitas saber...
 

@@ -16,7 +16,7 @@ cover = "/images/caddy-black.svg"
 Otro de los contenedores que utilizo de forma habitual es con el que sirvo las páginas de mi blog y otros recursos, también lo uso para redirigir trafico web a otros recursos externos a [Caddy](https://caddyserver.com/), un novedoso servidor web multiplataforma, capaz de servir HTTP/2, libre de dependencias, seguro por defecto, fácil de usar y apto para poner en producción gracias a su robustez. Sin duda su capacidad de servir en HTTPS mediante Let's Encrypt y la sencillez a la hora de implementarlo es el punto fuerte de este servidor web.
 
 
-<!-- [![Caddy](images/Caddy2.png)](https://caddyserver.com/) -->
+<!-- [![Caddy](images/Caddy2.webp)](https://caddyserver.com/) -->
 
 [{{< amp-img width="900" height="600" layout="responsive" src="images/CaddyCollage.svg" alt="CaddyServer" >}}](https://caddyserver.com/)
 

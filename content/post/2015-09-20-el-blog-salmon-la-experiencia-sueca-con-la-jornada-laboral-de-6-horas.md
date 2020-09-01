@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Muchos se darían por satisfechos con que como mínimo se respetasen las jornadas de 8 horas ..."
-# image ="/static/deftwork.png"
+
 +++
 El Blog Salmón: La experiencia sueca con la jornada laboral de 6 horas. <http://google.com/newsstand/s/CBIwhYqBySY>
 

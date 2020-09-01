@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Estupenda comparativa de José Ignacio para Paradigma Tecnológico ..."
-# image ="/static/deftwork.png"
+
 +++
 > Comparativa de plataformas y tecnologías Cloud, Amazon Web Services, Google Cloud Platform, Windows Azure, Openshift, Cloud Foundry, OpenStack, Docker, Kubernetes, CoreO
 

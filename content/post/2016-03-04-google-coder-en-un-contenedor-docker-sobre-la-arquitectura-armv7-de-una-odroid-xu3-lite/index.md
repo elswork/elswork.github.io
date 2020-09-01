@@ -10,10 +10,10 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Lo reconozco, soy de los que tienen el síndrome de la última versión y actualizo todo aun cuando es arriesgado actualizar..."
-# image ="/static/deftwork.png"
+
 +++
 
-[{{< amp-img width="672" height="201" layout="responsive" src="./images/Odroid_Docker.png" alt="Odroid-xu3 lite docker" >}}](https://www.hardkernel.com/)
+[{{< amp-img width="672" height="201" layout="responsive" src="./images/Odroid_Docker.webp" alt="Odroid-xu3 lite docker" >}}](https://www.hardkernel.com/)
 
 Lo reconozco, soy de los que tienen el síndrome de la última versión y actualizo todo aun cuando es arriesgado actualizar, lo cual suele traer muchísimos dolores de cabeza y trabajo añadido, como, el de volver empezar de cero a configurar todo. No lo puedo evitar, por eso, en cuanto vi que estaba disponible última actualización de la versión Ubuntu para Odroid-xu3 no me pude resistir.
 
@@ -23,7 +23,7 @@ En la versión actual solo hay que seguir <a href="https://github.com/umiddelb/a
 
 Sí como a mí, te gusta cacharrear y probar todos los proyectos que circulan por internet, encapsular estas aplicaciones es una ventaja porque ayuda a mantener limpio tu sistema base, ya que no instalas nada sobre él sino sobre los contenedores.
 
-[{{< amp-img width="672" height="201" layout="responsive" src="./images/Coder.png" alt="Google Coder" >}}](http://goo.gl/coder)
+[{{< amp-img width="672" height="201" layout="responsive" src="./images/Coder.webp" alt="Google Coder" >}}](http://goo.gl/coder)
 
 Google coder es una herramienta de aprendizaje enfocada en la educación, para todo aquel que quiera empezar a programar, fue pensaba que pudiera ser ejecutado en un hardware económico como el de la Raspberry Pi pero es perfectamente compatible con Odroid porque comparten arquitectura.
 

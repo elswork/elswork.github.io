@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = false
 description = "Desde hace algunos años creo que esta es la formula para alcanzar los mejores resultado..."
-# image ="/static/deftwork.png"
+
 +++
 
 Desde hace algunos años creo que esta es la formula para alcanzar los mejores resultados, progreso en estado puro. Muchas empresas ya lo saben y lo practican, cada vez encontramos más ejemplos de colaboración a gran escala, es hora de llevar esta practica a empresas de todos los tamaños y desencadenar todo su potencial.
