@@ -10,7 +10,7 @@ theme = "hugo-lamp"
 [params]
   subtitle = "Tecnología y Estilo de Vida"
   author = "Eloy López"
-  logo = "/images/yo.jpeg"
+  logo = "/images/yo.webp"
   description = "Mi cuaderno de bitácora"
   paginate = 10
 
@@ -22,7 +22,7 @@ theme = "hugo-lamp"
   linkedin = "elswork"
   # googleplus = "https://plus.google.com/+EloyL%C3%B3pezelswork"
   twitter = "elswork"
-  slack = "35Kp83O"
+  slack = "3cfWqL8"
   rss = true  # switch to true to enable RSS icon link
 
   # Publisher
