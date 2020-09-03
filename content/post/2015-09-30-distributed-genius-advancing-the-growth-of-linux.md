@@ -15,4 +15,4 @@ description = "Desde hace algunos años creo que esta es la formula para alcanza
 
 Desde hace algunos años creo que esta es la formula para alcanzar los mejores resultados, progreso en estado puro. Muchas empresas ya lo saben y lo practican, cada vez encontramos más ejemplos de colaboración a gran escala, es hora de llevar esta practica a empresas de todos los tamaños y desencadenar todo su potencial.
 
-{{< youtube WLinupKRz-8 >}}
+{{< amp-youtube id="WLinupKRz-8" autoplay="true" >}}

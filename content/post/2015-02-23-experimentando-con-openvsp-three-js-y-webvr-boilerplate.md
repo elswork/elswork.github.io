@@ -23,9 +23,7 @@ La instalación en Ubuntu 14.04, no fue un camino de rosas, pero gracias a las <
 
 Casualmente en ese mismo tiempo también estaba bastante impresionado con el proyecto de Brian Peris <a title="RiftSketch" href="https://github.com/brianpeiris/RiftSketch" target="_blank">RiftSketch</a>
 
-<div class="jetpack-video-wrapper">
-  <span class='embed-youtube' style='text-align:center; display: block;'></span>
-</div>
+{{< amp-youtube id="SKPYx4CEIlM" autoplay="true" >}}
 
 Se trata de un proyecto  de programación &#8220;en vivo&#8221; en un entorno de  realidad virtual basado en <a title="Three.js" href="http://threejs.org/" target="_blank">Three.js</a>, que es una librería JavaScript que simplifica la creación de objetos, escenarios, luces, efectos y animaciones en WebGL &#8211; 3D. Lamentablemente RiftSketch solo funciona con las gafas de realidad virtual Oculus Rift, y yo no las tengo, por lo que decidí investigar si se podría crear algo similar pero para la <a title="CardBoard de Google" href="https://www.google.com/get/cardboard/ " target="_blank">CardBoard de Google</a> (que es infinitamente más asequible).
 

@@ -13,6 +13,6 @@ description = "Impresionante aporte de mi brother..."
 +++
 Música disco de los 90 con guitarra española!!:
 
-{{< youtube eV5jR2yBpvw >}}
+{{< amp-youtube id="eV5jR2yBpvw" autoplay="true" >}}
 
 Impresionante aporte de mi brother. Esta música escuchaba yo cuando moceaba.

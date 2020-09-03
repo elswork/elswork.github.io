@@ -16,4 +16,4 @@ description = "¡Actívate!, da un giro a tu carrera, preparate para tu primer e
 
 <a title="Leer noticia sobra plataforma 'Actívate' en RTVE" href="http://www.rtve.es/noticias/20140318/google-presenta-espana-activate-plataforma-gratuita-para-ayudar-jovenes-montar-empresas/899261.shtml" target="_blank">Leer noticia en RTVE</a>.
 
-{{< youtube Dr38zuNJ39M >}}
+{{< amp-youtube id="Dr38zuNJ39M" autoplay="true" >}}

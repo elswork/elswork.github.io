@@ -26,9 +26,7 @@ Desde el principio me cautivo su historia de niño prodigio y su compromiso por 
 
 El resultado es un trago amargo, una historia de injusticias que no debe ser olvidada, pero también narra la sorprendente vida de un persona de un talento prodigioso, comprometido con la libertad del conocimiento, que merecidamente recibió el titulo de &#8220;Hijo de Internet&#8221; y del que Tim Berners-Lee, considerado el padre de la web, rinde un sentido tributo.
 
-<div class="jetpack-video-wrapper">
-  <span class='embed-youtube' style='text-align:center; display: block;'></span>
-</div>
+{{< amp-youtube id="RvsxnOg0bJY" autoplay="true" >}}
 
 En que alucinantes proyectos estaría ahora mismo trabajando de no haber perdido la vida&#8230;
 
