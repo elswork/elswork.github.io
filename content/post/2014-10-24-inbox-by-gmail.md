@@ -17,9 +17,9 @@ Recientemente Google ha lanzado esta nueva app, desarrollada por los creadores d
 
 Podéis conocer los detalles de este &#8220;Gmail 2.0&#8221; en [Inbox by Gmail][1] y si no tenéis suficiente en su [Página de Ayuda][2].
 
-No se si por una estrategia de marketing o por ser un producto muy beta, pero para poderlo probar es necesario solicitar una invitación por correo, una vez invitados es imprescindible instalar la app en un móvil [Android][3] o [iPhone][4], una vez instalado parece ser que también se podrá utilizar en la [versión web para PC][5]<figure id="attachment_100" style="width: 531px" class="wp-caption aligncenter">
+No se si por una estrategia de marketing o por ser un producto muy beta, pero para poderlo probar es necesario solicitar una invitación por correo, una vez invitados es imprescindible instalar la app en un móvil [Android][3] o [iPhone][4], una vez instalado parece ser que también se podrá utilizar en la [versión web para PC][5]
 
-[<img class="wp-image-100 size-full" src="/images/inbox-logo.webp" alt="" width="531" height="501" srcset="/images/inbox-logo-300x283.webp 300w, /images/inbox-logo.webp 531w" sizes="(max-width: 531px) 100vw, 531px" />][6]<figcaption class="wp-caption-text">Inbox by Gmail</figcaption></figure>
+[{{< amp-img width="531" height="501" layout="responsive" src="/images/inbox-logo.webp" alt="Parámetros a configurar" >}}][6]
 
 Solicita una invitación a <a class="invite-link" href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" data-href-desktop="https://mail.google.com/mail/u/0/#inbox?compose=new" data-track-action="inbox@google.com">inbox@google.com</a>
 

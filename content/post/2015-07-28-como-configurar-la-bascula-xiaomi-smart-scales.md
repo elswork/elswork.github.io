@@ -26,6 +26,4 @@ La báscula y la pulsera comparten aplicación en el móvil &#8220;Mi Fit&#8221;
 
 Es una lástima, ya que, en relación Calidad-Precio se puede considerar un buen producto, pero la ausencia de unas buenas instrucciones y la dificultad de encontrar la App actualizada en Google Play hacen que no sea un producto apto para todos los públicos.<figure id="attachment_209" style="width: 604px" class="wp-caption aligncenter">
 
-[<img class="size-large wp-image-209" src="/images/sh-v-2-1024x576.webpp" alt="Xiaomi Mi Band" width="604" height="340" srcset="/images/sh-v-2-300x16.webpbp 300w, /images/sh-v-2-1024x5.webpebp 1024w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Pulsera cuantificadora &#8211; Xiaomi Mi Band</figcaption></figure>
-
- [1]: /images/sh-v-2.webpp
+[{{< amp-img width="600" height="338" layout="responsive" src="/images/sh-v-2.webp" alt="Xiaomi Mi Band" >}}](/images/sh-v-2.webp)

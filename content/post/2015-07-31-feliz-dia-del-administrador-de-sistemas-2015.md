@@ -20,6 +20,4 @@ Para ampliar sobre la celebración y su historia: <a href="https://es.wikipedia
 
 ¿Administradores de Sistemas?, seguro que muchos de vosotros pensabais que somos seres mitológicos imaginarios, como los unicornios o las sirenas, pero no, somos reales, lo que pasa es que para garantizar nuestra supervivencia debemos pasar inadvertidos (como los vampiros). La próxima vez que pienses maltratar un ordenador, ¡Piénsatelo dos veces!, podemos estar acechándote desde cualquier parte.
 
-[<img class="aligncenter size-full wp-image-218" src="/images/select12.webp" alt="SQL SysAdmin Awesome" width="500" height="314" srcset="/images/select12-300x188.webp 300w, /images/select12.webp 500w" sizes="(max-width: 500px) 100vw, 500px" />][1]
-
- [1]: /images/select12.webp
+[{{< amp-img width="500" height="314" src="/images/select12.webp" alt="SQL SysAdmin Awesome" >}}](/images/select12.webp)

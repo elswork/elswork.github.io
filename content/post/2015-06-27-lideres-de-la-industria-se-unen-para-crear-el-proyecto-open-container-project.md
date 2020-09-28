@@ -12,7 +12,7 @@ featured = false
 description = "Proyecto para fijar las bases para una especificación estándar y abierta de contenedor, estamos sin duda, ante un acontecimiento histórico..."
 
 +++
-[<img class="size-full wp-image-198" src="/images/OCP.webp" alt="Proyecto de Contenedores Abierto" width="588" height="63" srcset="/images/OCP-300x32.webp 300w, /images/OCP.webp 588w" sizes="(max-width: 588px) 100vw, 588px" />][1]
+[{{< amp-img width="588" height="63" layout="responsive" src="/images/OCP.webp" alt="Proyecto de Contenedores Abierto" >}}](/images/OCP.webp)
 
 Antes de entrar en materia es conveniente comprender el significado del concepto &#8220;Container&#8221;, para entenderlo es interesante estar familiarizado con el término <a href="https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n" target="_blank">&#8220;Virtualización&#8221;</a> (simulación de maquinas virtuales), un termino que se viene empleando desde hace muchos años para diferentes aspectos y ámbitos de la informática, pero que como muchos de vosotros ya sabréis, ha tenido un auge y un alto impacto en la ciencia informática en los últimos años, ya que, a grandes rasgos, ha permitido optimizar y reutilizar los recursos informáticos y por consiguiente reducir los costes y consumos, agilizar la adopción de los nuevos recursos y simplificar la gestión y mantenimiento de los sistemas informáticos.
 
@@ -22,8 +22,6 @@ Teniendo en cuenta la importancia de los contenedores y <a href="https://www.op
 
 [Open Container Project][2]
 
-[<img class="aligncenter size-full wp-image-199" src="/images/Sponsors.webp" alt="Empresas Participantes" width="664" height="165" srcset="/images/Sponsors-300x75.webp 300w, /images/Sponsors.webp 664w" sizes="(max-width: 664px) 100vw, 664px" />][3]
+[{{< amp-img width="664" height="165" layout="responsive" src="/images/Sponsors.webp" alt="Empresas Participantes" >}}](/images/Sponsors.webp)
 
- [1]: /images/OCP.webp
  [2]: http://www.opencontainers.org/
- [3]: /images/Sponsors.webp

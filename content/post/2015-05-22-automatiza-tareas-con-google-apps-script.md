@@ -12,7 +12,7 @@ featured = false
 description = "Se trata de programar una determinada tarea o acción para poderla realizar de forma automática y/o programada de forma muy rápida..."
 
 +++
-<figure id="attachment_182" style="width: 128px" class="wp-caption aligncenter"><a href="http://www.google.com/script/start/" target="_blank"><img class="size-full wp-image-182" src="/images/Google_Apps_Script.webp" alt="Google Apps Script" width="128" height="128" /></a><figcaption class="wp-caption-text">Apps Script</figcaption></figure>
+[{{< amp-img width="128" height="128" src="/images/Google_Apps_Script.webp" alt="Google Apps Script" >}}](http://www.google.com/script/start/)
 
 Si miramos al pasado, creo que todos somos capaces de ver y apreciar lo mucho que nos han permitido evolucionar los &#8220;truquillos&#8221; en las diferentes herramientas ofimáticas que hemos compartido entre nosotros, a veces pueden ser un verdadero acierto y en otras ocasiones un error, lo que esta claro es que hasta que no lo pruebas, no lo sabes, a veces incluso lo que no es útil para algunos es tremendamente valioso para otros, por tanto siempre que nos sea posible y aplicando el sentido común debemos de tratar de colaborar entre nosotros en todas direcciones.
 
@@ -36,6 +36,6 @@ En el segundo enlace podéis profundizar en las funciones más avanzadas.
 
 <a href="https://developers.google.com/apps-script/" target="_blank" rel="nofollow">https://developers.google.com/apps-script/</a>
 
-Resumiendo, una herramienta poco conocida que a pesar de lo que pueda parecer es para todos los públicos, al final se trata de programar, pienso que hay usuarios que deben perderle el miedo a este término, ya que al final es algo que muchos hacemos de forma incosciente en el día a día (un televisor, la lavadora, &#8230;.), ¿porque no hacer lo mismo en el PC, la tablet, smatphone, &#8230;?<figure id="attachment_181" style="width: 474px" class="wp-caption aligncenter">
+Resumiendo, una herramienta poco conocida que a pesar de lo que pueda parecer es para todos los públicos, al final se trata de programar, pienso que hay usuarios que deben perderle el miedo a este término, ya que al final es algo que muchos hacemos de forma incosciente en el día a día (un televisor, la lavadora, &#8230;.), ¿porque no hacer lo mismo en el PC, la tablet, smartphone, &#8230;?
 
-<a href="http://www.google.com/script/start/" target="_blank"><img class=" wp-image-181" src="/images/gas_logo.webp" alt="Google Apps Script Logo" width="474" height="182" srcset="/images/gas_logo-300x115.webp 300w, /images/gas_logo.webp 925w" sizes="(max-width: 474px) 100vw, 474px" /></a><figcaption class="wp-caption-text">Google Apps Script</figcaption></figure>
+[{{< amp-img width="925" height="355" layout="responsive" src="/images/gas_logo.webp" alt="Google Apps Script" >}}](http://www.google.com/script/start/)

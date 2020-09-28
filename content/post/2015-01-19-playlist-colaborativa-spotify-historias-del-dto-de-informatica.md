@@ -14,14 +14,8 @@ description = "Junto con unos amiguetes hemos creado una playlist colaborativa, 
 +++
 Junto con unos amiguetes hemos creado una playlist colaborativa (todo el mundo esta invitado a mejorarla) en Spotify, sin orden ni concierto, gamberra, incoherente, en la que hay música de varios géneros, pero principalmente dance y electro.
 
-[<img class="aligncenter size-full wp-image-146" src="/images/playlist.webp" alt="playlist" width="300" height="300" srcset="/images/playlist-150x150.webp 150w, /images/playlist.webp 300w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[{{< amp-img width="300" height="300" src="/images/playlist.webp" alt="Playlist colaborativa Spotify - Historias del Dto. de Informática" >}}](http://open.spotify.com/user/fliptoret/playlist/3gcjsZqNyRwNqyGDlnlG8Z)
 
 Me encanta la música, la escucho a todas horas, en el coche, en el trabajo, mientras corro, &#8230; En ocasiones es una como válvula de escape, en otras la uso para aislarme del mundanal ruido y concentrarme, para distraerme, divertirme, motivarme, &#8230;  En fin, supongo que no soy el único y sabéis de lo que hablo. Seguro que hay cientos de sesudos estudios científicos que recopilan los usos y efectos de la música, podría enrollarme durante horas dando detalles irrelevantes &#8230; Y LO SABES!!!, pero no es plan, así que solo diré que después de muchos años de progreso nos estamos acercando a la forma ideal de compartir música y por eso os invito a nuestra playlist, espero que la disfrutéis tanto como yo.
 
 <a title="Playlist colaborativa Spotify - Historias del Dto. de Informática" href="http://open.spotify.com/user/fliptoret/playlist/3gcjsZqNyRwNqyGDlnlG8Z" target="_blank">Playlist colaborativa Spotify - Historias del Dto. de Informática</a>
-
-<!--[embed]https://play.spotify.com/user/fliptoret/playlist/3gcjsZqNyRwNqyGDlnlG8Z[/embed]
-
--->
-
- [1]: /images/playlist.webp
