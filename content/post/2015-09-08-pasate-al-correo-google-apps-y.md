@@ -26,6 +26,6 @@ Dicho todo esto, debes de estar loco si todavía te encuentras sufriendo las ata
 
 #### &#8230; en caso contrario, <a href="https://goo.gl/VBQyp6" target="_blank">Pon a prueba Google Apps for Work</a>
 
-Y si te decides a dar el cambio, pregúntame, puedo resolverte algunas dudas y ofrecerte algún suculento descuento.<figure id="attachment_235" style="width: 222px" class="wp-caption aligncenter">
+Y si te decides a dar el cambio, pregúntame, puedo resolverte algunas dudas y ofrecerte algún suculento descuento.
 
-<a href="https://goo.gl/VBQyp6" target="_blank"><img class="wp-image-235 size-full" src="/images/unnamed.webpp" alt="Pon a prueba Google Apps for Work" width="222" height="31" /></a><figcaption class="wp-caption-text"><a href="https://goo.gl/VBQyp6" target="_blank">Evalua Google Apps Gratuitamente</a></figcaption></figure> 
+[{{< amp-img width="222" height="31" src="/images/unnamed.webp" alt="Pon a prueba Google Apps for Work" >}}](https://goo.gl/VBQyp6 "Evalua Google Apps Gratuitamente")

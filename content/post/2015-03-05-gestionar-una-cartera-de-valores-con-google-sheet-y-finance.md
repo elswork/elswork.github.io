@@ -26,8 +26,6 @@ Como es mejor verlo con un ejemplo que explicarlo, aquí os dejo un ejemplo de l
 
 Para hacer cualquier modificación o vuestros propios cálculos, ir al menú &#8220;Archivo&#8221;, &#8220;Crear una copia&#8230;&#8221;.
 
-Os dejo también un enlace donde podéis consultar <a title="Funciones especiales Google Sheet" href="https://support.google.com/docs/topic/3105411?hl=es&ref_topic=3046366" target="_blank">otras funciones especiales de Google Sheet</a>.<figure id="attachment_161" style="width: 700px" class="wp-caption aligncenter">
+Os dejo también un enlace donde podéis consultar <a title="Funciones especiales Google Sheet" href="https://support.google.com/docs/topic/3105411?hl=es&ref_topic=3046366" target="_blank">otras funciones especiales de Google Sheet</a>.
 
-[<img class="size-full wp-image-161" src="/images/FinanceSheet.webp" alt="Finance Sheet" width="700" height="350" srcset="/images/FinanceSheet-300x150.webp 300w, /images/FinanceSheet.webp 700w" sizes="(max-width: 700px) 100vw, 700px" />][1]<figcaption class="wp-caption-text">Google Sheet y Google Finance</figcaption></figure>
-
- [1]: /images/FinanceSheet.webp
+[{{< amp-img width="700" height="350" layout="responsive" src="/images/FinanceSheet.webp" alt="Google Sheet y Google Finance" >}}](/images/FinanceSheet.webp)

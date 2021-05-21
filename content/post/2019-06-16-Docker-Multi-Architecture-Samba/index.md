@@ -40,6 +40,6 @@ Este es el primer contenedor Multi-arch (arm7, amd64) que he adaptado a la terce
 
 | Docker Pulls | Docker Stars | Size/Layers |
 | --- | --- | --- |
-| [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/pulls/elswork/samba.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/stars/elswork/samba.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://images.microbadger.com/badges/image/elswork/samba.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/samba "elswork/samba on microbadger.com") |
+| [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/pulls/elswork/samba.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/stars/elswork/samba.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/samba "elswork/samba on Docker Hub") | [{{< amp-img width="120" height="20" src="https://images.microbadger.com/badges/image/elswork/samba.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/samba "elswork/samba on microbadger.com") |
 
 Espero os resulte tan útil como a mí.

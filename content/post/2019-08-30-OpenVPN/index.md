@@ -35,7 +35,7 @@ Despliega tu propia VPN de cero en pocos minutos y securiza tus comunicaciones d
 
 | Docker Pulls | Docker Stars | Size/Layers |
 | --- | --- | --- |
-| [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/pulls/elswork/openvpn.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/openvpn "openvpn on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://img.shields.io/docker/stars/elswork/openvpn.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/openvpn "OpenVPN on Docker Hub") | [{{< amp-img width="120" height="20" layout="responsive" src="https://images.microbadger.com/badges/image/elswork/openvpn.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/openvpn "OpenVPN on microbadger.com") |
+| [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/pulls/elswork/openvpn.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/openvpn "openvpn on Docker Hub") | [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/stars/elswork/openvpn.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/openvpn "OpenVPN on Docker Hub") | [{{< amp-img width="120" height="20" src="https://images.microbadger.com/badges/image/elswork/openvpn.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/openvpn "OpenVPN on microbadger.com") |
 
 
 Espero os resulte tan útil como a mí.

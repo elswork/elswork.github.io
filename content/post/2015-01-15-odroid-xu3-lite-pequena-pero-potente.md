@@ -48,8 +48,6 @@ Recientemente han lanzado un nuevo modelo muy competitivo en cuanto a precio y r
 
 Gracias al magnífico artículo de Robologs <a title="Primeros pasos con Odroid" href="http://robologs.net/2014/07/24/primeros-pasos-odroid/" target="_blank">Primeros pasos con Odroid</a> descubrí que para trabajar con ella lo primero que hay que hacer es expandir el SO.
 
-Por último me gustaría destacar el <a title="Odroid Magazine" href="http://magazine.odroid.com/" target="_blank">magazine sobre Odroid</a> que la marca publica de forma gratuita mensualmente con artículos y tutoriales muy interesantes.<figure id="attachment_138" style="width: 557px" class="wp-caption aligncenter">
+Por último me gustaría destacar el <a title="Odroid Magazine" href="http://magazine.odroid.com/" target="_blank">magazine sobre Odroid</a> que la marca publica de forma gratuita mensualmente con artículos y tutoriales muy interesantes.
 
-[<img class="size-full wp-image-138" src="/images/EsquemaXU3-Lite2.webp" alt="Esquema Odroid XU3-Lite" width="557" height="350" srcset="/images/EsquemaXU3-Lite2-300x189.webp 300w, /images/EsquemaXU3-Lite2.webp 557w" sizes="(max-width: 557px) 100vw, 557px" />][1]<figcaption class="wp-caption-text">Esquema Odroid XU3-Lite</figcaption></figure>
-
- [1]: /images/EsquemaXU3-Lite2.webp
+[{{< amp-img width="557" height="350" layout="responsive" src="/images/EsquemaXU3-Lite2.webp" alt="Esquema Odroid XU3-Lite" >}}](/images/EsquemaXU3-Lite2.webp)

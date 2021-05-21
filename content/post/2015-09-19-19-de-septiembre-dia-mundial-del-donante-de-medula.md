@@ -20,7 +20,6 @@ Casi al final de día me he enterado que el 19 de septiembre se celebraba el D�
 
 Gracias a ustedes, sin su ayuda ni la de médicos y enfermeros entregados no seria posible que personas solidarias resulten útiles para personas que necesitan un trasplante.
 
-[<img class="aligncenter size-full wp-image-255" src="/images/WMDD-WMDA.webp" alt="19 de septiembre, Día Mundial del Donante de Médula" width="418" height="226" srcset="/images/WMDD-WMDA-300x162.webp 300w, /images/WMDD-WMDA.webp 418w" sizes="(max-width: 418px) 100vw, 418px" />][2]
+[{{< amp-img width="418" height="226" src="/images/WMDD-WMDA.webp" alt="19 de septiembre, Día Mundial del Donante de Médula" >}}](/images/WMDD-WMDA.webp)
 
  [1]: https://www.fcarreras.org/es/espa%C3%B1a-alcanza-los-190-000-donantes-de-medula-en-el-primer-semestre-de-este-a%C3%B1o_614047
- [2]: /images/WMDD-WMDA.webp

@@ -2,6 +2,7 @@ baseurl = "https://deft.work/"
 title = "Deft.Work"
 languageCode = "es-es"
 # DefaultContentLanguage = "es"
+# googleAnalytics = "G-W1B6WTMNFF"
 googleAnalytics = "UA-45115659-1"
 disqusShortname = "deft-work"
 MetaDataFormat = "toml"
@@ -10,7 +11,7 @@ theme = "hugo-lamp"
 [params]
   subtitle = "Tecnología y Estilo de Vida"
   author = "Eloy López"
-  logo = "/images/yo.webp"
+  logo = "/images/deftwork.webp"
   description = "Mi cuaderno de bitácora"
   paginate = 10
 
