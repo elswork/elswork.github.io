@@ -21,7 +21,11 @@ Concretamente voy a explicar cuáles son mis manías al volante en cuanto a la p
 
 Generalmente se usa una para entretenimiento y otra para navegación que funcionan simultáneamente, la aplicación de navegación puede ser Google Maps o Waze, pero solo una de ellas, por lo que el conductor deberá elegir [¿Google Maps o Waze? ¿Qué aplicación es mejor?](https://www.larazon.es/motor/20220801/ou25p35kunew5lkux66jn26zzu.html?outputType=amp)
 
-[{{< amp-img width="600" height="400" layout="responsive" src="images/wazevsmaps.webp" alt="Waze VS Google Maps" >}}](https://www.larazon.es/motor/20220801/ou25p35kunew5lkux66jn26zzu.html?outputType=amp)
+[{{< amp-img width="600" height="400" layout="responsive" src="images/wazevsmaps.webp" alt="Waze O Google Maps" >}}](https://www.larazon.es/motor/20220801/ou25p35kunew5lkux66jn26zzu.html?outputType=amp)
+
+[Waze vs Google Maps, ¿cuál es mejor para viajar?](https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401)
+
+[{{< amp-img width="1200" height="675" layout="responsive" src="images/waze-vs-google-maps.webp" alt="Waze VS Google Maps" >}}](https://computerhoy.com/reportajes/tecnologia/waze-vs-google-maps-cual-mejor-viajar-1111401)
 
 Conozco ambas aplicaciones hace bastante tiempo y ambas me parecen imprescindibles, ¿porque elegir cuando lo puedo tener todo?, habitualmente en la consola del coche tengo Google Maps y en la pantalla del teléfono Waze, suena un poco abusivo, incluso peligroso, ¿qué sucede si las indicaciones de ambos navegadores se contradicen? que yo elijo cuál de los caminos tomar, y esto sucede con más frecuencia de lo que uno podría esperar, en estos casos no hay un navegador al que yo haga más caso que al otro, la proporción es aproximadamente del 50% para cada navegador.
 

@@ -33,6 +33,6 @@ Durante este tiempo he ido actualizando la imágen adaptándola a la nuevas vers
 
 | Docker Pulls | Docker Stars | Size/Layers |
 | --- | --- | --- |
-| [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/pulls/elswork/arm-caddy.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/stars/elswork/arm-caddy.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" src="https://images.microbadger.com/badges/image/elswork/arm-caddy.svg" alt="Badges" >}}](https://microbadger.com/images/elswork/arm-caddy "elswork/arm-caddy on microbadger.com") |
+| [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/pulls/elswork/arm-caddy.svg" alt="Pulls" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/stars/elswork/arm-caddy.svg" alt="Stars" >}}](https://hub.docker.com/r/elswork/arm-caddy "elswork/arm-caddy on Docker Hub") | [{{< amp-img width="120" height="20" src="https://img.shields.io/docker/image-size/elswork/arm-caddy.svg" alt="Badges" >}}](https://hub.docker.com/r/elswork/samba "elswork/arm-caddy  on Docker Hub") |
 
 Espero os resulte tan útil como a mí.
