@@ -10,7 +10,7 @@ share = true	# set false to hide share buttons
 author = "Eloy López"
 featured = true
 description = "Conducir es algo que muchos hacemos a diario casi de forma automática ..."
-cover = "/images/MapsAndWaze.svg"
+cover = "/images/MapsAndWaze.webp"
 +++
 
 Conducir es algo que muchos hacemos a diario casi de forma automática, tanto que apenas somos conscientes de la importancia de esta actividad esencial en nuestro día a día y no reflexionamos sobre las múltiples consideraciones que la actividad de conducir tiene.
