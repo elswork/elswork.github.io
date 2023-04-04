@@ -46,6 +46,6 @@ Tanto ha llegado a obsesionarme esta idea, que incluso la envié a un foro de pr
 
 Llegados a este punto existen varias opciones:
 
-Has llegado hasta aquí por inercia, no te importa un carajo la globalización de la cultura ni los estándares de facto, ni los dominios de nivel superior ccTLD, debes pensar, “vaya rollazo” o “A este tipo le falta algún que otro tornillo…”, que pases un buen día, disculpa las molestias.
+Has llegado hasta aquí por inercia 😒, no te importa un carajo la globalización de la cultura ni los estándares de facto, ni los dominios de nivel superior ccTLD, debes pensar, “vaya rollazo” o “A este tipo le falta algún que otro tornillo…”, que pases un buen día 🫡, disculpa las molestias.
 
-En caso contrario, te agradecería que me dejases tu opinión en los comentarios de abajo o mejor aún, que votes la idea en el foro de arriba.
+En caso contrario, te agradecería que me dejases tu opinión en los comentarios de abajo o mejor aún, que votes la idea en el foro de arriba. 😍
