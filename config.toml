@@ -1,8 +1,10 @@
 baseurl = "https://deft.work/"
 title = "Deft.Work"
 languageCode = "es-es"
-googleAnalytics = "G-W1B6WTMNFF"
-#googleAnalytics = "UA-45115659-1"
+#googleAnalytics = "G-W1B6WTMNFF"
+googleAnalytics = "UA-45115659-1"
+stm_id = "G-W1B6WTMNFF"
+gtm_ga = true
 disqusShortname = "deft-work"
 MetaDataFormat = "toml"
 theme = "hugo-lamp"
