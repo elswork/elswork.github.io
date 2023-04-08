@@ -1,12 +1,34 @@
 baseurl = "https://deft.work/"
 title = "Deft.Work"
 languageCode = "es-es"
-# DefaultContentLanguage = "es"
 # googleAnalytics = "G-W1B6WTMNFF"
 googleAnalytics = "UA-45115659-1"
 disqusShortname = "deft-work"
 MetaDataFormat = "toml"
 theme = "hugo-lamp"
+defaultContentLanguage = 'es'
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+  [languages.en]
+    languageName = "Inglés"
+    weight = 2
+    [languages.en.params]
+        subtitle = "Technology and Lifestyle"
+        description = "My logbook"
+  [languages.gr]
+    languageName = "Griego"
+    weight = 3
+    [languages.gr.params]
+        subtitle = "Τεχνολογία και τρόπος ζωής"
+        description = "Το ημερολόγιό μου"
+  [languages.cn]
+    languageName = "chino"
+    weight = 4
+    [languages.cn.params]
+         subtitle = "科技與生活方式"
+         description = "我的日誌"
 
 [params]
   subtitle = "Tecnología y Estilo de Vida"
@@ -50,10 +72,25 @@ theme = "hugo-lamp"
   category = "categories"
 
 [[menu.main]]
-  name = "Blog"
+  name = "ES"
   weight = 1
-  identifier = "blog"
+  identifier = "ES"
   url = "/"
+[[menu.main]]
+  name = "EN"
+  weight = 2
+  identifier = "EN"
+  url = "/en"
+[[menu.main]]
+  name = "GR"
+  weight = 3
+  identifier = "GR"
+  url = "/gr"
+[[menu.main]]
+  name = "CN"
+  weight = 4
+  identifier = "CN"
+  url = "/cn"
 #[[menu.main]]
 #  name = "AMP Project"
 #  weight = 2

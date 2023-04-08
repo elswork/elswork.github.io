@@ -29,7 +29,6 @@ cover = "/images/IslaAnticiteraV2.webp"
 
 [{{< amp-img width="1027" height="297" layout="responsive" src="images/TablaPersonas.webp" alt="Tabla personas y organizaciones" >}}](https://docs.google.com/spreadsheets/d/1-6lBWrMexLKKDpfI2u8zKnvit3mXeZT9Zs6ngZk4glI/edit?usp=sharing)
 
-
 [Suscríbete a nuestra lista](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link) de correo y sé el primero en enterarte de como progresa nuestra idea. Se respetará la privacidad de los usuarios y no se enviará publicidad no deseada.
 
 <!-- [{{< amp-img width="1248" height="698" layout="responsive" src="images/QuijoteIA.webp" alt="Quijote" >}}](https://www.abc.es/opinion/abci-inteligencia-artificial-espanol-201903272343_noticia.html) -->
