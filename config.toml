@@ -14,31 +14,31 @@ defaultContentLanguage = 'es'
     languageName = "Español"
     weight = 1
   [languages.en]
-    languageName = "Inglés"
+    languageName = "English"
     weight = 2
     [languages.en.params]
         subtitle = "Technology and Lifestyle"
         description = "My logbook"
   [languages.gr]
-    languageName = "Griego"
+    languageName = "Ελληνικά"
     weight = 3
     [languages.gr.params]
         subtitle = "Τεχνολογία και τρόπος ζωής"
         description = "Το ημερολόγιό μου"
   [languages.cn]
-    languageName = "Chino"
+    languageName = "繁體中文"
     weight = 4
     [languages.cn.params]
          subtitle = "科技與生活方式"
          description = "我的日誌"
   [languages.ru]
-    languageName = "Ruso"
+    languageName = "русский"
     weight = 5
     [languages.ru.params]
          subtitle = "Технологии и образ жизни"
          description = "Мой бортовой журнал"
   [languages.ar]
-    languageName = "Árabe"
+    languageName = "عرب"
     weight = 6
     [languages.ar.params]
          subtitle = "التكنولوجيا وأسلوب الحياة"
