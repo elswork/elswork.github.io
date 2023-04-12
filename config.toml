@@ -2,9 +2,9 @@ baseurl = "https://deft.work/"
 title = "Deft.Work"
 languageCode = "es-es"
 #googleAnalytics = "G-W1B6WTMNFF"
-googleAnalytics = "UA-45115659-1"
-stm_id = "G-W1B6WTMNFF"
-gtm_ga = true
+#googleAnalytics = "UA-45115659-1"
+#stm_id = "G-W1B6WTMNFF"
+#gtm_ga = true
 disqusShortname = "deft-work"
 MetaDataFormat = "toml"
 theme = "hugo-lamp"
@@ -26,11 +26,23 @@ defaultContentLanguage = 'es'
         subtitle = "Τεχνολογία και τρόπος ζωής"
         description = "Το ημερολόγιό μου"
   [languages.cn]
-    languageName = "chino"
+    languageName = "Chino"
     weight = 4
     [languages.cn.params]
          subtitle = "科技與生活方式"
          description = "我的日誌"
+  [languages.ru]
+    languageName = "Ruso"
+    weight = 5
+    [languages.ru.params]
+         subtitle = "Технологии и образ жизни"
+         description = "Мой бортовой журнал"
+  [languages.ar]
+    languageName = "Árabe"
+    weight = 6
+    [languages.ar.params]
+         subtitle = "التكنولوجيا وأسلوب الحياة"
+         description = "دفتر بلدي"
 
 [params]
   subtitle = "Tecnología y Estilo de Vida"
@@ -93,6 +105,16 @@ defaultContentLanguage = 'es'
   weight = 4
   identifier = "CN"
   url = "/cn"
+[[menu.main]]
+  name = "RU"
+  weight = 5
+  identifier = "RU"
+  url = "/ru"
+[[menu.main]]
+  name = "AR"
+  weight = 6
+  identifier = "AR"
+  url = "/ar"
 #[[menu.main]]
 #  name = "AMP Project"
 #  weight = 2
