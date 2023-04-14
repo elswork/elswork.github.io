@@ -43,6 +43,12 @@ defaultContentLanguage = 'es'
     [languages.ar.params]
          subtitle = "التكنولوجيا وأسلوب الحياة"
          description = "دفتر بلدي"
+  [languages.hi]
+    languageName = "हिंदी"
+    weight = 7
+    [languages.hi.params]
+         subtitle = "प्रौद्योगिकी और जीवन शैली"
+         description = "मेरी लॉगबुक"
 
 [params]
   subtitle = "Tecnología y Estilo de Vida"
@@ -115,6 +121,11 @@ defaultContentLanguage = 'es'
   weight = 6
   identifier = "AR"
   url = "/ar"
+[[menu.main]]
+  name = "HI"
+  weight = 7
+  identifier = "HI"
+  url = "/hi"
 #[[menu.main]]
 #  name = "AMP Project"
 #  weight = 2

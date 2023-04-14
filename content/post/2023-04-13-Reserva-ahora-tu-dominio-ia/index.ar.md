@@ -1,5 +1,5 @@
 +++
-date="2023-04-13T10:09:53+02:00"
+date="2023-04-13T20:09:53+02:00"
 draft = false
 title= "Anticitera Island - لا تنتظر أكثر من ذلك ، احجز نطاقك على .IA الآن"
 tags = ["الذكاء الاصطناعي", "ccTLD", "الفكرة", "Anticithera Island", "المجال"]

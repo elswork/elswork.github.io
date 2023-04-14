@@ -1,5 +1,5 @@
 +++
-date = "2023-04-13T10:09:53+02:00"
+date = "2023-04-13T20:09:53+02:00"
 draft = false
 title= "Isla Anticitera - No esperes más, reserva ahora tu dominio .IA"
 tags = ["Inteligencia Articicial","ccTLD","Idea","Isla Anticitera","Dominio"]
