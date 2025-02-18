@@ -33,3 +33,5 @@ cover = "/images/IslaAnticiteraV2.webp"
 [اشترك في قائمتنا البريدية](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link) وكن أول من يعرف كيف تتقدم فكرتنا. سيتم احترام خصوصية المستخدمين ولن يتم إرسال الإعلانات غير المرغوب فيها.
 
 <!-- [{{< amp-img width="1248" height="698" layout="responsive" src="images/QuijoteIA.webp" alt="Quijote" >}}](https://www .abc.es/opinion/abci-inteligencia-artificial-espanol-201903272343_noticia.html) -->
+
+[https://anticitera.deft.work](https://anticitera.deft.work)

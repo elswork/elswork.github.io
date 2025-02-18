@@ -49,3 +49,5 @@ At this point there are several options:
 You got here by inertia 😒, you don't give a damn about the globalization of culture or de facto standards, or ccTLD top level domains, you must think, “what a pain in the ass” or “this guy is missing some screw or two …”, have a nice day 🫡, sorry for the inconvenience.
 
 Otherwise, I would appreciate it if you leave me your opinion in the comments below or better yet, vote on the idea in the forum above. 😍
+
+[https://anticitera.deft.work](https://anticitera.deft.work)

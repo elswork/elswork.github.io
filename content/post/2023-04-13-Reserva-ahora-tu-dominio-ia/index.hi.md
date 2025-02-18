@@ -30,3 +30,5 @@ cover = "/images/IslaAnticiteraV3.webp"
 [{{< amp-img width="1024" height="360" layout="responsive" src="images/RobotRunnerSliced.webp" alt="रोबोट रनर" >}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
 आप हमें टिप्पणियों में अपनी राय भी दे सकते हैं, आरआरएसएस पर विचार फैला सकते हैं, विचार का समर्थन कर सकते हैं [द फ्यूचरु प्लेटफॉर्म](https://futureu.europa.eu/processes/Digital/f/15/proposals/27592?locale=es) या [हमारी मेलिंग सूची की सदस्यता लें](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link)
+
+[https://anticitera.deft.work](https://anticitera.deft.work)

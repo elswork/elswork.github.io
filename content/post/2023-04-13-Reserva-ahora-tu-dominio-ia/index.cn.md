@@ -30,3 +30,5 @@ cover = "/images/IslaAnticiteraV3.webp"
 [{{< amp-img width="1024" height="360" layout="responsive" src="images/RobotRunnerSliced.webp" alt="機器人亞軍" >}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
 您也可以在評論中留下您的意見，在RRSS上傳播想法，在[Futureu平台](https://futureu.europa.eu/processes/Digital/f/15/proposals/27592?locale=es) 或[訂閱我們的郵件列表](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link)
+
+[https://anticitera.deft.work](https://anticitera.deft.work)

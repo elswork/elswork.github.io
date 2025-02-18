@@ -30,3 +30,5 @@ Estos son solo algunos ejemplos de lo que podrías hacer con un dominio .ia. ¿A
 [{{< amp-img width="1024" height="360" layout="responsive" src="images/RobotRunnerSliced.webp" alt="Robot Corredor" >}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
 Además puedes dejarnos tu opinión en los comentarios, difundir la idea en RRSS, apoyar la idea en [la plataforma Futureu](https://futureu.europa.eu/processes/Digital/f/15/proposals/27592?locale=es) o [suscribirte a nuestra lista de correo](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link)
+
+[https://anticitera.deft.work](https://anticitera.deft.work)

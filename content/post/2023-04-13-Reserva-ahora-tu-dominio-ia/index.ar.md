@@ -30,3 +30,5 @@ cover = "/images/IslaAnticiteraV3.webp"
 [{{<amp-img width = "1024" height = "360" layout = "responsive" src = "images/RobotRunnerSliced.webp" alt = "RobotRunnerSliced.webp" alt = "Robot Runner">}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
 يمكنك أيضًا ترك رأيك في التعليقات ونشر الفكرة على RRSS ودعم الفكرة على [منصة Futureu](https://futureu.europa.eu/processes/Digital/f/15/proposals/27592?locale=es) أو [الاشتراك في قائمتنا البريدية](https://docs.google.com/forms/d/e/1FAIpQLSeptFS3-XMVTeBFQzDEl1O55hkXhtOgYmMSEfpLLJk11UZEOA/viewform?usp=sf_link)
+
+[https://anticitera.deft.work](https://anticitera.deft.work)
