@@ -1,0 +1,76 @@
+# Nombre del Flujo de Trabajo
+name: Deploy Hugo site to Pages
+
+# Disparadores: Cuándo se ejecutará este flujo de trabajo
+on:
+  # Se ejecuta en pushes al branch 'main' (o 'master' si usas ese)
+  push:
+    branches:
+      - main  # Cambia a 'master' si tu branch principal se llama así
+
+  # Permite ejecutar este flujo manualmente desde la pestaña Actions en GitHub
+  workflow_dispatch:
+
+# Permisos necesarios para el GITHUB_TOKEN
+permissions:
+  contents: read      # Para clonar el repositorio
+  pages: write       # Para desplegar en GitHub Pages
+  id-token: write    # Para autenticarse con el despliegue OIDC (método moderno y seguro)
+
+# Configuración para permitir un solo despliegue concurrente, cancelando ejecuciones antiguas
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+# Define el trabajo (job) que se ejecutará
+jobs:
+  # Trabajo de construcción y despliegue
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} # URL de la página desplegada
+    runs-on: ubuntu-latest # Usar la última versión de Ubuntu como runner
+
+    steps:
+      # 1. Clonar el repositorio
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Asegúrate de incluir esto si tu tema es un submódulo Git
+          fetch-depth: 0    # Necesario para que Hugo obtenga la fecha .Lastmod de Git
+
+      # 2. Configurar GitHub Pages
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
+      # 3. Configurar Hugo (¡Ajusta la versión si es necesario!)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest' # O especifica una versión como '0.119.0'
+          extended: true         # Pon 'true' si usas SASS/SCSS (requiere la versión extendida de Hugo)
+
+      # 4. Construir el sitio web con Hugo
+      #    El baseURL se toma de la configuración de Pages (paso 2)
+      - name: Build with Hugo
+        env:
+          # Asegura que Hugo use la URL correcta para GitHub Pages
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+          # La URL base se obtiene automáticamente del paso 'Setup Pages'
+          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
+        run: hugo --minify # Construye el sitio en la carpeta 'public' por defecto y lo minifica
+
+      # 5. Subir el artefacto (los archivos construidos) para el despliegue
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Sube el contenido de la carpeta donde Hugo genera el sitio (normalmente 'public')
+          path: ./public
+
+      # 6. Desplegar en GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        # No se necesita GITHUB_TOKEN explícito aquí, usa la autenticación OIDC configurada
