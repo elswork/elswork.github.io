@@ -25,7 +25,7 @@ En el artículo anterior, [Isla Anticitera: ¿El futuro de la Inteligencia Artif
 
 [{{< amp-img width="1024" height="1024" layout="responsive" src="images/Dominio.IA.webp" alt="Dominio IA" >}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
-Estos son solo algunos ejemplos de lo que podrías hacer con un dominio .ia. ¿A qué esperas para registrar el tuyo? No dejes pasar la oportunidad de tener un dominio exclusivo y original que te distinga de los demás. [¡Reserva tu dominio .ia hoy mismo!](https://docs.google.com/forms/d/e/1FAIpQLScj1paIvOUbqugD76fKncZ65ZOqL-f5bILycZComuxKhJeRPg/viewform?usp=sf_link) y [revisa la lista oficial de reservas](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing) Obviamente no puedo garantizar nada, pero como es gratuito tampoco pierdes nada por hacerlo.
+Estos son solo algunos ejemplos de lo que podrías hacer con un dominio .ia. ¿A qué esperas para registrar el tuyo? No dejes pasar la oportunidad de tener un dominio exclusivo y original que te distinga de los demás. [¡Reserva tu dominio .ia hoy mismo!](https://dominio.deft.work) y [revisa la lista oficial de reservas](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing) Obviamente no puedo garantizar nada, pero como es gratuito tampoco pierdes nada por hacerlo.
 
 [{{< amp-img width="1024" height="360" layout="responsive" src="images/RobotRunnerSliced.webp" alt="Robot Corredor" >}}](https://docs.google.com/spreadsheets/d/1y-aLEKfQySJeDgZd4QeHa57G9P9Pp4mqWhLJSqxcB0o/edit?usp=sharing)
 
